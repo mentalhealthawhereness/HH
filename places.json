@@ -11,16 +11,16 @@
         "author": "Donatus Wolf"
     },
     {
-        "id": "AtHomeFridayMorning",
-        "label": "Bells and women singing in the distance",
-        "googlemaps": "https://goo.gl/maps/ZnxZ6vERCqv",
+        "id": "AAAndiHearHere",
+        "label": "Andi from Mental Health AWHEREness",
+        "googlemaps": "https://goo.gl/maps/8sVx2UxLwGXDpoDJ8",
         "vol": 1,
         "db": 0.3,
-        "x": 25.025064,
-        "y": 121.517959,
-        "type": "location",
+        "x": 14.6637412,
+        "y": 121.065849,
+        "type": "general",
         "time": "day",
-        "author": "Mona Ruppert"
+        "author": "Andi Tabinas"
     },
     {
         "id": "NTUTClassroom",
