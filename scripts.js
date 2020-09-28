@@ -58,7 +58,7 @@ window.onload = function () {
         $('#toggleTime').css('color', timeTheme[timeState].fontColor);
         
 
-        $('.logo').css('background-image', 'url(assets/logo-' + [timeState] + '.svg');
+        $('.logo').css('background-image', 'url(assets/logo-' + [timeState] + '.png');
         $('.logo').css('background-repeat', 'no-repeat');
         $('.logo').css('background-position', 'center center');
 
