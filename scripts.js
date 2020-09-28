@@ -73,7 +73,7 @@ window.onload = function () {
 
     //// load map ////////
 
-    var lat = 14.191354;
+    var lat = 13.748111;
     var lng = 121.564521
     var zoom = 6;
 
