@@ -1,6 +1,6 @@
 {
-    "name": "Sounds of Taipei",
-    "short_name": "SoT",
+    "name": "HEAR; Here 2.0",
+    "short_name": "HH2",
     "icons": [{
         "src": "/android-chrome-192x192.png",
         "sizes": "192x192",
@@ -10,7 +10,7 @@
         "sizes": "512x512",
         "type": "image/png"
     }],
-    "theme_color": "#ec4667",
-    "background_color": "#ec4667",
+    "theme_color": "#49f5b9",
+    "background_color": "#49f5b9",
     "display": "standalone"
 }
