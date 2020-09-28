@@ -1,6 +1,10 @@
 # HEAR; Here 2.0
 
-An interactive map that shows messages of hope to people who are experiencing mental health problems. We would like to thank NTUT's Sounds of Taipei for their amazing project which inspired us to do this.
+An interactive map that shows messages of hope to people who are experiencing mental health problems.
+
+We would like to thank NTUT's Sounds of Taipei for their amazing project which inspired us to do this.
+
+--
 
 # Forked from Sounds of Taipei
 
