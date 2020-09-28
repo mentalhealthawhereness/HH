@@ -29,7 +29,7 @@ window.onload = function () {
 
     var timeTheme = {
         day: {
-            mapUrl: 'https://api.mapbox.com/styles/v1/anditabinas/ckb8smaod0c0p1ipqm8jfeqsl/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
+            mapUrl: 'https://api.mapbox.com/styles/v1/anditabinas/ckfmm1qyi2ld219ocj905c5ox/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
             sidebarColor: '#FFFFFF',
             fontColor: '#646978',
         },
