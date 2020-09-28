@@ -1,14 +1,14 @@
 [{
-        "id": "birds",
-        "label": "Bird street",
-        "googlemaps": "https://goo.gl/maps/mPdgYM41Az92",
-        "vol": 0.5,
-        "db": 0.7,
-        "x": 25.034531,
-        "y": 121.504003,
+        "id": "AAAndiHearHereNight",
+        "label": "Andi from Mental Health AWHEREness",
+        "googlemaps": "https://goo.gl/maps/8sVx2UxLwGXDpoDJ8",
+        "vol": 1,
+        "db": 0.3,
+        "x": 14.6637412,
+        "y": 121.065849,
         "type": "location",
-        "time": "day",
-        "author": "Donatus Wolf"
+        "time": "night",
+        "author": "Andi Tabinas"
     },
     {
         "id": "AAAndiHearHere",
