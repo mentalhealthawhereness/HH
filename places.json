@@ -6,7 +6,7 @@
         "db": 0.2,
         "x": 14.6637412,
         "y": 121.065849,
-        "type": "event",
+        "type": "general",
         "time": "night",
         "author": "Andi Tabinas"
     },
@@ -18,7 +18,7 @@
         "db": 0.2,
         "x": 14.6637412,
         "y": 121.065849,
-        "type": "event",
+        "type": "general",
         "time": "day",
         "author": "Andi Tabinas"
     }
