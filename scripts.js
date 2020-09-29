@@ -5,7 +5,7 @@ window.onload = function () {
 
     var color = {
         general: '#3a7bbf',
-        location: '#99e0dc',
+        location: '#e3de7f',
         event: '#4fa879'
     }
 
