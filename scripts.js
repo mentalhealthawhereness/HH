@@ -6,7 +6,7 @@ window.onload = function () {
     var color = {
         general: '#3a7bbf',
         location: '#99e0dc',
-        event: '#ae65d5'
+        event: '#65d599'
     }
 
     //// day/night theme ////////
