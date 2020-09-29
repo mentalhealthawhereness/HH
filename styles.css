@@ -4,7 +4,7 @@ body {
     height: 100%;
     margin: 0;
     font-family: 'Noto Sans TC', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 22px;
     font-weight: 300;
     position: relative;
@@ -126,7 +126,7 @@ body {
 }
 
 .legend .item3 h3::before {
-    color: #ae65d5;
+    color: #65d599;
 }
 
 .legend li p {
