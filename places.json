@@ -119,7 +119,7 @@
     },
     { 
         "id": "ShareekaNight",
-        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.❤",
+        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.",
         "googlemaps": "https://goo.gl/maps/Ke65ZGGb4XVgywiw7",
         "vol": 1,
         "db": 0.2,
@@ -131,7 +131,7 @@
     },
     { 
         "id": "Shareeka",
-        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.❤",
+        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.",
         "googlemaps": "https://goo.gl/maps/Ke65ZGGb4XVgywiw7",
         "vol": 1,
         "db": 0.2,
