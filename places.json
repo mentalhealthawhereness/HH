@@ -101,7 +101,7 @@
         "vol": 1,
         "db": 0.2,
         "x": 14.6790554,
-        "y": 121.1089921
+        "y": 121.1089921,
         "type": "location",
         "time": "night",
         "author": "Jhing"
@@ -113,8 +113,32 @@
         "vol": 1,
         "db": 0.2,
         "x": 14.6790554,
-        "y": 121.1089921
+        "y": 121.1089921,
         "type": "location",
         "time": "day",
+    },
+    { 
+        "id": "ShareekaNight",
+        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.❤",
+        "googlemaps": "https://goo.gl/maps/Ke65ZGGb4XVgywiw7",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.9301142,
+        "y": 122.0467424,
+        "type": "general",
+        "time": "night",
+        "author": "Shareeka"
+    },
+    { 
+        "id": "Shareeka",
+        "label": "You may not know when good days will come but you can take special care of yourself until bad days are over.❤",
+        "googlemaps": "https://goo.gl/maps/Ke65ZGGb4XVgywiw7",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.9301142,
+        "y": 122.0467424,
+        "type": "general",
+        "time": "day",
+        "author": "Shareeka"
     }
 ]
