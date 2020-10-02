@@ -69,5 +69,29 @@
         "type": "location",
         "time": "day",
         "author": "Elay"
+    },
+    { 
+        "id": "VannNight",
+        "label": "I'm Vann from Zamboanga. If you ever need someone to talk to, feel free to message me. You are not alone!",
+        "googlemaps": "https://goo.gl/maps/jTNpxurHP2Rxd6W76",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.917337,
+        "y": 122.0472005,
+        "type": "location",
+        "time": "night",
+        "author": "Vann"
+    },
+    {
+        "id": "Vann",
+        "label": "I'm Vann from Zamboanga. If you ever need someone to talk to, feel free to message me. You are not alone!",
+        "googlemaps": "https://goo.gl/maps/jTNpxurHP2Rxd6W76",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.917337,
+        "y": 122.0472005,
+        "type": "location",
+        "time": "day",
+        "author": "Vann"
     }
 ]
