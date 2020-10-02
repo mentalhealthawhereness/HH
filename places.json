@@ -23,6 +23,18 @@
         "author": "Andi Tabinas"
     },
     {
+        "id": "PaulineNight",
+        "label": "Cheering up and motivating individuals who feel unhappy",
+        "googlemaps": "https://maps.app.goo.gl/V47cscDPPoia5dup9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.747723,
+        "y": 121.028792,
+        "type": "general",
+        "time": "night",
+        "author": "Pauline"
+    },
+    {
         "id": "Pauline",
         "label": "Cheering up and motivating individuals who feel unhappy",
         "googlemaps": "https://maps.app.goo.gl/V47cscDPPoia5dup9",
@@ -34,16 +46,27 @@
         "time": "day",
         "author": "Pauline"
     },
+        "id": "ElayNight",
+        "label": "Hello, beautiful human!",
+        "googlemaps": "https://goo.gl/maps/QnwcqPmZUu4MLZxs5",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6866951,
+        "y": 121.0432862,
+        "type": "location",
+        "time": "night",
+        "author": "Elay"
+    },
     {
-        "id": "PaulineNight",
-        "label": "Cheering up and motivating individuals who feel unhappy",
-        "googlemaps": "https://maps.app.goo.gl/V47cscDPPoia5dup9",
+        "id": "Elay",
+        "label": "Hello, beautiful human!",
+        "googlemaps": "https://goo.gl/maps/QnwcqPmZUu4MLZxs5",
         "vol": 1,
         "db": 0.2,
         "x": 14.747723,
         "y": 121.028792,
-        "type": "general",
-        "time": "night",
-        "author": "Pauline"
-    }  
+        "type": "location",
+        "time": "day",
+        "author": "Elay"
+    } 
 ]
