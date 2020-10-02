@@ -75,7 +75,7 @@ window.onload = function () {
 
     var lat = 13.748111;
     var lng = 121.298916;
-    var zoom = 7;
+    var zoom = 6;
 
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
