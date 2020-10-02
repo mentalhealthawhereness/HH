@@ -140,5 +140,29 @@
         "type": "general",
         "time": "day",
         "author": "Shareeka"
+    },
+    { 
+        "id": "KylieNight",
+        "label": "I'm Kylie! Always remember you are not alone!",
+        "googlemaps": "https://maps.app.goo.gl/TeEwDrnjZnHcoZ2d8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 7.1622793,
+        "y": 121.8707352,
+        "type": "general",
+        "time": "night",
+        "author": "Kylie"
+    },
+    { 
+        "id": "Kylie",
+        "label": "I'm Kylie! Always remember you are not alone!",
+        "googlemaps": "https://maps.app.goo.gl/TeEwDrnjZnHcoZ2d8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 7.1622793,
+        "y": 121.8707352,
+        "type": "general",
+        "time": "day",
+        "author": "Kylie"
     }
 ]
