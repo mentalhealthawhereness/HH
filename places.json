@@ -93,5 +93,28 @@
         "type": "location",
         "time": "day",
         "author": "Vann"
+    },
+    { 
+        "id": "JhingNight",
+        "label": "Your feelings are valid.",
+        "googlemaps": "https://maps.app.goo.gl/trrkVyimQsqmGugX8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6790554,
+        "y": 121.1089921,
+        "type": "location",
+        "time": "night",
+        "author": "Jhing"
+    },
+    {
+        "id": "Jhing",
+        "label": "Your feelings are valid.",
+        "googlemaps": "https://maps.app.goo.gl/trrkVyimQsqmGugX8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6790554,
+        "y": 121.1089921,
+        "type": "location",
+        "time": "day",
     }
 ]
