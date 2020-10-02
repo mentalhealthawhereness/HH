@@ -21,5 +21,29 @@
         "type": "general",
         "time": "day",
         "author": "Andi Tabinas"
-    }
+    },
+    {
+        "id": "Pauline",
+        "label": "Cheering up and motivating individuals who feel unhappy",
+        "googlemaps": "https://maps.app.goo.gl/V47cscDPPoia5dup9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.747723,
+        "y": 121.028792,
+        "type": "general",
+        "time": "day",
+        "author": "Pauline"
+    },
+    {
+        "id": "Pauline",
+        "label": "Cheering up and motivating individuals who feel unhappy",
+        "googlemaps": "https://maps.app.goo.gl/V47cscDPPoia5dup9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.747723,
+        "y": 121.028792,
+        "type": "general",
+        "time": "night",
+        "author": "Pauline"
+    }  
 ]
