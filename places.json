@@ -237,5 +237,29 @@
         "type": "general",
         "time": "day",
         "author": "Jay"
+    },
+    { 
+        "id": "ShanaNight",
+        "label": "Hi, It's Shana! Always remember that always believe in yourself <3",
+        "googlemaps": "https://goo.gl/maps/N6sjx7rY3PDMxMwB9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.952052,
+        "y": 122.121994,
+        "type": "general",
+        "time": "night",
+        "author": "Shana"
+    },
+    { 
+        "id": "Shana",
+        "label": "Hi, It's Shana! Always remember that always believe in yourself <3",
+        "googlemaps": "https://goo.gl/maps/N6sjx7rY3PDMxMwB9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 6.952052,
+        "y": 122.121994,
+        "type": "general",
+        "time": "day",
+        "author": "Shana"
     }
 ]
