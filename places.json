@@ -192,7 +192,7 @@
     },
     { 
         "id": "KmNight",
-        "label": "TYou can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!.",
+        "label": "You can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!",
         "googlemaps": "https://goo.gl/maps/RcZyZAy8yDNAwWtFA",
         "vol": 1,
         "db": 0.2,
@@ -204,7 +204,7 @@
     },
     { 
         "id": "Km",
-        "label": "TYou can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!.",
+        "label": "You can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!",
         "googlemaps": "https://goo.gl/maps/RcZyZAy8yDNAwWtFA",
         "vol": 1,
         "db": 0.2,
@@ -213,5 +213,29 @@
         "type": "location",
         "time": "day",
         "author": "KM"
+    },
+    { 
+        "id": "JayNight",
+        "label": "To the person who never gives up, keep going and glowing, the world needs you.",
+        "googlemaps": "https://goo.gl/maps/bgJUavAiW5ye1LNz9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5669705,
+        "y": 120.5966605,
+        "type": "general",
+        "time": "night",
+        "author": "Jay"
+    },
+    { 
+        "id": "Jay",
+        "label": "To the person who never gives up, keep going and glowing, the world needs you.",
+        "googlemaps": "https://goo.gl/maps/bgJUavAiW5ye1LNz9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5669705,
+        "y": 120.5966605,
+        "type": "general",
+        "time": "day",
+        "author": "Jay"
     }
 ]
