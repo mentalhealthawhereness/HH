@@ -189,5 +189,29 @@
         "type": "general",
         "time": "day",
         "author": "Chelsea"
+    },
+    { 
+        "id": "KmNight",
+        "label": "TYou can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!.",
+        "googlemaps": "https://goo.gl/maps/RcZyZAy8yDNAwWtFA",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5844733,
+        "y": 121.0092407,
+        "type": "location",
+        "time": "night",
+        "author": "KM"
+    },
+    { 
+        "id": "Km",
+        "label": "TYou can send me a message at 09611185798 or email me at kristelabeleda@gmail.com whenever you feel the need to talk to someone. I will reply as soon as I can!.",
+        "googlemaps": "https://goo.gl/maps/RcZyZAy8yDNAwWtFA",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5844733,
+        "y": 121.0092407,
+        "type": "location",
+        "time": "day",
+        "author": "KM"
     }
 ]
