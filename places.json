@@ -309,5 +309,53 @@
         "type": "location",
         "time": "day",
         "author": "Rance"
-    } 
+    },
+    { 
+        "id": "PaulNight",
+        "label": "Don't forget to send your messages to Dear Paul via DP24 FB, IG or e-mail at DearPaul@outlook.ph. Alternatively, contact +63 (916) 516 9249.",
+        "googlemaps": "https://goo.gl/maps/NeDQ7RdkuGGDMGrA6",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.2772529,
+        "y": 120.9705637,
+        "type": "location",
+        "time": "night",
+        "author": "Paul"
+    },
+    { 
+        "id": "Paul",
+        "label": "Don't forget to send your messages to Dear Paul via DP24 FB, IG or e-mail at DearPaul@outlook.ph. Alternatively, contact +63 (916) 516 9249.",
+        "googlemaps": "https://goo.gl/maps/NeDQ7RdkuGGDMGrA6",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.2772529,
+        "y": 120.9705637,
+        "type": "location",
+        "time": "day",
+        "author": "Paul"
+    },
+    { 
+        "id": "FrancesNight",
+        "label": "Everything is going to be alright. Maybe not today, but eventually.",
+        "googlemaps": "https://goo.gl/maps/XMHyRgwNAM5HhH8w8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.1538393,
+        "y": 121.1276578,
+        "type": "general",
+        "time": "night",
+        "author": "Frances"
+    },
+    { 
+        "id": "Frances",
+        "label": "Everything is going to be alright. Maybe not today, but eventually.",
+        "googlemaps": "https://goo.gl/maps/XMHyRgwNAM5HhH8w8",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.1538393,
+        "y": 121.1276578,
+        "type": "general",
+        "time": "day",
+        "author": "Frances"
+    }
 ]
