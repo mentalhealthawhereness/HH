@@ -44,12 +44,12 @@ body {
 }
 
 .more {
-    height: 72px;
+    height: 64px;
     width: 40px;
     color: rgb(101, 104, 121);
     border-radius: 100%;
-    line-height: 32px;
-    font-size: 38px;
+    line-height: 30px;
+    font-size: 36px;
     justify-content: flex-end;
     box-sizing: border-box;
     display: none;
@@ -62,10 +62,10 @@ body {
     content: '';
     display: inline-block;
     transform: rotate(-45deg);
-    height: 12px;
+    height: 10px;
     left: 30%;
     position: relative;
-    top: 24px;
+    top: 22px;
     vertical-align: top;
     width: 12px;
 }
@@ -83,7 +83,7 @@ body {
 }
 
 .howto {
-    margin: 0 0 38px 0;
+    margin: 0 0 36px 0;
     color: #646978;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .legend h3::before {
     content: "•";
-    font-size: 78px;
+    font-size: 76px;
     position: absolute;
     left: -58px;
     top: -1px;
