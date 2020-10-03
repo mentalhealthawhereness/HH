@@ -13,7 +13,7 @@ body {
 .sidebar {
     width: 280px;
     height: 100%;
-    padding: 30px;
+    padding: 28px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -90,7 +90,7 @@ body {
 .legend {
     margin: 0;
     padding: 0;
-    margin-bottom: 84px;
+    margin-bottom: 80px;
 }
 
 .legend li {
@@ -283,12 +283,12 @@ body {
     }
 
     .howto{
-        margin: 24px 0;
+        margin: 22px 0;
         max-width: 430px;
     }
 
     .legend {
-        margin-bottom: 32px;
+        margin-bottom: 30px;
     }
 
     .credits {
