@@ -285,5 +285,29 @@
         "type": "general",
         "time": "day",
         "author": "Abi"
-    }
+    },
+    { 
+        "id": "RanceNight",
+        "label": "Hi there! My name is Rance and I can be your mental health buddy. Just don't be shy to contact me. Here's where you can find me: FB: Rance Carlos dela Cruz IG: thereadingstick EMAIL: rancecarlos@gmail.com",
+        "googlemaps": "https://www.google.com/maps/@14.6196004,121.089441,21z",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6196004,
+        "y": 121.089441,21,
+        "type": "location",
+        "time": "night",
+        "author": "Rance"
+    },
+    { 
+        "id": "Rance",
+        "label": "Hi there! My name is Rance and I can be your mental health buddy. Just don't be shy to contact me. Here's where you can find me: FB: Rance Carlos dela Cruz IG: thereadingstick EMAIL: rancecarlos@gmail.com",
+        "googlemaps": "https://www.google.com/maps/@14.6196004,121.089441,21z",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6196004,
+        "y": 121.089441,21,
+        "type": "location",
+        "time": "day",
+        "author": "Rance"
+    } 
 ]
