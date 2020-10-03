@@ -49,7 +49,7 @@ body {
     color: rgb(101, 104, 121);
     border-radius: 100%;
     line-height: 30px;
-    font-size: 36px;
+    font-size: 30px;
     justify-content: flex-end;
     box-sizing: border-box;
     display: none;
@@ -78,7 +78,7 @@ body {
     background: url(assets/logo-day.svg);
     background-position: center center;
     background-repeat: no-repeat;
-    height: 90px;
+    height: 80px;
     justify-content: center;
 }
 
