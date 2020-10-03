@@ -48,8 +48,8 @@ body {
     width: 40px;
     color: rgb(101, 104, 121);
     border-radius: 100%;
-    line-height: 34px;
-    font-size: 40px;
+    line-height: 32px;
+    font-size: 38px;
     justify-content: flex-end;
     box-sizing: border-box;
     display: none;
@@ -65,7 +65,7 @@ body {
     height: 12px;
     left: 30%;
     position: relative;
-    top: 26px;
+    top: 24px;
     vertical-align: top;
     width: 12px;
 }
