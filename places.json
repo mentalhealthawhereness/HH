@@ -357,5 +357,29 @@
         "type": "general",
         "time": "day",
         "author": "Frances"
+    },
+    { 
+        "id": "JhaNight",
+        "label": "Heyy! You are more than enough. You deserve to be cared for oki? So take care of yourself! If you need help, don't be afraid to seek help 😄",
+        "googlemaps": "https://goo.gl/maps/6cRM4y43kuTm5UdM9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5831177,
+        "y": 120.9772284,
+        "type": "general",
+        "time": "night",
+        "author": "Jha"
+    },
+    { 
+        "id": "Jha",
+        "label": "Heyy! You are more than enough. You deserve to be cared for oki? So take care of yourself! If you need help, don't be afraid to seek help 😄",
+        "googlemaps": "https://goo.gl/maps/6cRM4y43kuTm5UdM9",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5831177,
+        "y": 120.9772284,
+        "type": "general",
+        "time": "day",
+        "author": "Jha"
     }
 ]
